@@ -1,7 +1,6 @@
 ```javascript
 
 const boyan = {
-    pronouns: "He" | "Him",
     code: ["JavaScript"],
     technologies: {
         backEnd: ["..."],
