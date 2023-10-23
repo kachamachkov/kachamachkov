@@ -1,6 +1,6 @@
 ```javascript
 
-const Boyan = {
+const boyan = {
     pronouns: "He" | "Him",
     code: ["JavaScript"],
     technologies: {
