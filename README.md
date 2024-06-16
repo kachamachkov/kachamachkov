@@ -1,16 +1,17 @@
 ```javascript
 
-const boyan = {
-    code: ["JavaScript"],
+const boyan: Developer = {
+    code: [ "Javascript", "Typescript?" ],
     technologies: {
-        backEnd: ["Express, Handlebars"],
-        frontEnd: ["HTML, CSS, React"],
-        databases: ["MongoDB, Mongoose"]
+        backEnd: [ "NodeJS", "Express", "Handlebars" ],
+        frontEnd: [ "React", "HTML5", "CSS3" ],
+        devOps: [ "Docker 🐳?" ],
+        databases: [ "MongoDB" ]
     },
-    education: ["SoftUni", "UNWE"],
-    hobbies: ["Competitive Gaming", "Healthy lifestyle", "Table tennis", "Basketball"],
-    goal: "Writing quality code"
+    architecture: [ "MVC" ],
+    education: [ "SoftUni", "UNWE" ],
+    hobbies: [ "Table tennis", "Basketball", "Competitive Gaming" ],
+    goal: "Untangling sea knots"
 };
 
 ```
-
