@@ -3,13 +3,13 @@
 const boyan = {
     code: ["JavaScript"],
     technologies: {
-        backEnd: ["..."],
-        frontEnd: ["HTML, CSS, ..."],
-        databases: ["..."]
+        backEnd: ["Express, Handlebars"],
+        frontEnd: ["HTML, CSS, React"],
+        databases: ["MongoDB, Mongoose"]
     },
-    education: ["Software University of Sofia", "UNWE of Sofia"],
+    education: ["SoftUni", "UNWE"],
     hobbies: ["Competitive Gaming", "Healthy lifestyle", "Table tennis", "Basketball"],
-    goal: "Becoming a software developer and creating useful things"
+    goal: "Writing quality code"
 };
 
 ```
