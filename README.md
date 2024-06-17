@@ -8,7 +8,7 @@ const boyan: Developer = {
         devOps: [ "Docker 🐳?" ],
         databases: [ "MongoDB" ]
     },
-    architecture: [ "MVC" ],
+    architecture: [ "MVC", "SPAs", "MPAs" ],
     education: [ "SoftUni", "UNWE" ],
     hobbies: [ "Table tennis", "Basketball", "Competitive Gaming" ],
     goal: "Untangling sea knots"
