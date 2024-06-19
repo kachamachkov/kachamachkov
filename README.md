@@ -10,7 +10,7 @@ const boyan: Developer = {
     },
     architecture: [ "MVC", "SPAs", "MPAs" ],
     education: [ "SoftUni", "UNWE" ],
-    hobbies: [ "Table tennis", "Basketball", "Competitive Gaming" ],
+    hobbies: [ "Calisthenics", "Basketball", "Competitive Gaming" ],
     goal: "Untangling sea knots"
 };
 
