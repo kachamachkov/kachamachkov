@@ -3,10 +3,10 @@
 const boyan: Developer = {
     code: [ "Javascript", "Typescript?" ],
     technologies: {
-        backEnd: [ "NodeJS", "Express", "Handlebars" ],
+        backEnd: [ "NodeJS", "Express", "Handlebars", "EJS" ],
         frontEnd: [ "React", "HTML5", "CSS3" ],
         devOps: [ "Docker 🐳?" ],
-        databases: [ "MongoDB" ]
+        databases: [ "MongoDB", "PostgreSQL" ]
     },
     architecture: [ "MVC", "SPAs", "MPAs" ],
     education: [ "SoftUni", "UNWE" ],
