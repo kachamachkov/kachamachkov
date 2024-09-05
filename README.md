@@ -6,7 +6,7 @@ const boyan: Developer = {
         backEnd: [ "NodeJS", "Express", "Handlebars", "EJS" ],
         frontEnd: [ "React", "HTML5", "CSS3" ],
         devOps: [ "Docker 🐳?" ],
-        databases: [ "MongoDB", "PostgreSQL" ]
+        databases: [ "MongoDB", "PostgreSQL?" ]
     },
     architecture: [ "MVC", "SPAs", "MPAs" ],
     education: [ "SoftUni", "UNWE" ],
